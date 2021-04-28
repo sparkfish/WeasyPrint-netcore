@@ -4,20 +4,22 @@
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Balbarak.WeasyPrint</RootNamespace>
     <AssemblyName>Balbarak.WeasyPrint</AssemblyName>
-    <Version>2.0.2</Version>
-    <Description>WeasyPrint Wrapper for .net on Windows</Description>
+    <Version>2.0.3</Version>
+    <Description>WeasyPrint Wrapper for .net on Windows, initially forked from balbarak</Description>
     <Copyright>balbarak 2018</Copyright>
-    <RepositoryUrl>https://github.com/balbarak/WeasyPrint-netcore</RepositoryUrl>
+    <RepositoryUrl>https://github.com/sparkfish/WeasyPrint-netcore</RepositoryUrl>
     <RepositoryType>github</RepositoryType>
-    <PackageReleaseNotes>- Fix bug when File name has spaces</PackageReleaseNotes>
-    <Authors>balbarak</Authors>
-    <Company>CreaDev</Company>
+    <PackageReleaseNotes>- .NET 5 conversion</PackageReleaseNotes>
+    <Authors>kielhowell</Authors>
+    <Company>Sparkfish</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageProjectUrl>https://github.com/balbarak/WeasyPrint-netcore</PackageProjectUrl>
-    <AssemblyVersion>2.0.0.2</AssemblyVersion>
-    <FileVersion>2.0.0.2</FileVersion>
+    <PackageProjectUrl>https://github.com/sparkfish/WeasyPrint-netcore</PackageProjectUrl>
+    <AssemblyVersion>2.0.0.3</AssemblyVersion>
+    <FileVersion>2.0.0.3</FileVersion>
     <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageId>Balbarak.Sparkfish.WeasyPrint</PackageId>
+    <Product>Balbarak.Sparkfish.WeasyPrint</Product>
   </PropertyGroup>
 
 
